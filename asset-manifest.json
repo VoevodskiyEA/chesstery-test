@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chesstery-test/static/css/main.a08add7e.chunk.css",
+    "main.js": "/chesstery-test/static/js/main.f823a15a.chunk.js",
+    "main.js.map": "/chesstery-test/static/js/main.f823a15a.chunk.js.map",
+    "runtime-main.js": "/chesstery-test/static/js/runtime-main.2328ed34.js",
+    "runtime-main.js.map": "/chesstery-test/static/js/runtime-main.2328ed34.js.map",
+    "static/css/2.72423869.chunk.css": "/chesstery-test/static/css/2.72423869.chunk.css",
+    "static/js/2.8b0339d5.chunk.js": "/chesstery-test/static/js/2.8b0339d5.chunk.js",
+    "static/js/2.8b0339d5.chunk.js.map": "/chesstery-test/static/js/2.8b0339d5.chunk.js.map",
+    "static/js/3.9d4871ee.chunk.js": "/chesstery-test/static/js/3.9d4871ee.chunk.js",
+    "static/js/3.9d4871ee.chunk.js.map": "/chesstery-test/static/js/3.9d4871ee.chunk.js.map",
+    "index.html": "/chesstery-test/index.html",
+    "static/css/2.72423869.chunk.css.map": "/chesstery-test/static/css/2.72423869.chunk.css.map",
+    "static/css/main.a08add7e.chunk.css.map": "/chesstery-test/static/css/main.a08add7e.chunk.css.map",
+    "static/js/2.8b0339d5.chunk.js.LICENSE.txt": "/chesstery-test/static/js/2.8b0339d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2328ed34.js",
+    "static/css/2.72423869.chunk.css",
+    "static/js/2.8b0339d5.chunk.js",
+    "static/css/main.a08add7e.chunk.css",
+    "static/js/main.f823a15a.chunk.js"
+  ]
+}
